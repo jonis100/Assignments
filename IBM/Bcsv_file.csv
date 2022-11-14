@@ -1,0 +1,2 @@
+remote_address,url,request_length
+remote_address, 192.168.1.100 ,url,/app/myurl,request_length,145

@@ -1,0 +1,5 @@
+Time_of_the_request,04:16:20,url,/app/myurl,http_user_agent:,ELB HealthChecker/2.0 
+remote_address, 192.168.1.100 ,url,/app/myurl,request_length,145
+Time of the request,18:18:22,request_length,145,remote_address, 192.168.1.100 
+Time_of_the_request,04:16:20,url,/app/myurl,http_user_agent:,ELB HealthChecker/2.0 
+Time_of_the_request,04:16:20,url,/app/myurl,http_user_agent:,ELB HealthChecker/2.0 

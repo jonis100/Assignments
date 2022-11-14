@@ -1,0 +1,4 @@
+Time_of_the_request,url,http_user_agent:
+04:16:20,/app/myurl,ELB HealthChecker/2.0 
+04:16:20,/app/myurl,ELB HealthChecker/2.0 
+04:16:20,/app/myurl,ELB HealthChecker/2.0 
